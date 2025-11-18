@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Walls
+  - Floor Ceiling
+  - HealingOrb
   layers:
   - Default
   - TransparentFX
@@ -11,10 +15,10 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - WallsFloor
+  - AddedTerrain
+  - Enemy
+  - Player
   - 
   - 
   - 

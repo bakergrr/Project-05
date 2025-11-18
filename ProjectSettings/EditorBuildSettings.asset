@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/The Real Deal.unity
+    guid: 137750b8b6cb67f4a86e346122c80ba8
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 9171af46566c2a044ac46eab88c21c1a
+  - enabled: 1
+    path: Assets/Scenes/Death Menu.unity
+    guid: c0025cb8dfc7043449bde2bb347eb42e
+  - enabled: 1
+    path: Assets/Scenes/Win Menu.unity
+    guid: 649270740225a264dacd9fdbe9cf0fd9
   m_configObjects: {}
