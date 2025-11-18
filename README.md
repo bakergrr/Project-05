@@ -15,6 +15,7 @@
 -   Juicy features: When an enemy takes damage, they'll emit a burst of red particles and flash red before fading back to white. (This is achieved by making a clone of the enemy's material and changing its color! Because of this, multiple enemies can have different shades of red at the same time). Light orbs and healing orbs spawn above the ceiling and gradually move down, and healing orbs emit particles with trails until collected.
 -   Slightly nicer menus: Menus feature a camera slowly rotating around a room made to look like one that could procedurally generate in the game, and have a little bit of lore above the start buttons.
 -   Slighly changed rooms: To make sure too much light doesn't bleed between tiles, each maze tile is given a ceiling, and instead of removing entire walls between connected rooms, a small doorway is opened for the player instead.
+-   The cursor is locked to the center of the screen and invisible during gameplay but is visible and free to move in menus.
 
 
 ## References
